@@ -1,0 +1,228 @@
+# TODO: Native speaker's review required (Belorussian)
+be:
+  date:
+    abbr_month_names:
+    -
+    - сту
+    - лют
+    - сак
+    - кра
+    - тра
+    - чэр
+    - ліп
+    - жні
+    - вер
+    - кас
+    - ліс
+    - сне
+    # Lower case + changed word endings
+    month_names:
+    -
+    - студзеня
+    - лютага
+    - сакавіка
+    - красавіка
+    - травеня
+    - чэрвеня
+    - ліпеня
+    - жніўня
+    - верасня
+    - кастрычніка
+    - лістапада
+    - снежня
+    # Same as `abbr_month_names` in `rails-i18n`.
+    single_abbr_month_names:
+    -
+    - Сту
+    - Лют
+    - Сак
+    - Кра
+    - Тра
+    - Чэр
+    - Ліп
+    - Жні
+    - Вер
+    - Кас
+    - Ліс
+    - Сне
+    # Same as `month_names` in `rails-i18n`.
+    single_month_names:
+    -
+    - Студзень
+    - Люты
+    - Сакавік
+    - Красавік
+    - Травень
+    - Чэрвень
+    - Ліпень
+    - Жнівень
+    - Верасень
+    - Кастрычнік
+    - Лістапад
+    - Снежань
+
+# TODO: Native speaker's review required (Greek)
+el:
+  date:
+    # Changed word ending from 'ιος' to 'ίου'.
+    month_names:
+    -
+    - Ιανουαρίου
+    - Φεβρουαρίου
+    - Μαρτίου
+    - Απριλίου
+    - Μαΐου
+    - Ιουνίου
+    - Ιουλίου
+    - Αυγούστου
+    - Σεπτεμβρίου
+    - Οκτωβρίου
+    - Νοεμβρίου
+    - Δεκεμβρίου
+    # Same as `abbr_month_names` in `rails-i18n`.
+    single_abbr_month_names:
+    -
+    - Ιαν
+    - Φεβ
+    - Μαρ
+    - Απρ
+    - Μαΐ
+    - Ιουν
+    - Ιουλ
+    - Αυγ
+    - Σεπ
+    - Οκτ
+    - Νοε
+    - Δεκ
+    # Same as `month_names` in `rails-i18n`.
+    single_month_names:
+    -
+    - Ιανουάριος
+    - Φεβρουάριος
+    - Μάρτιος
+    - Απρίλιος
+    - Μάιος
+    - Ιούνιος
+    - Ιούλιος
+    - Αύγουστος
+    - Σεπτέμβριος
+    - Οκτώβριος
+    - Νοέμβριος
+    - Δεκέμβριος
+
+# TODO: Native speaker's review required (Polish)
+pl:
+  date:
+    # Same as `abbr_month_names` in `rails-i18n`.
+    single_abbr_month_names:
+    -
+    - sty
+    - lut
+    - mar
+    - kwi
+    - maj
+    - cze
+    - lip
+    - sie
+    - wrz
+    - paź
+    - lis
+    - gru
+    # Nominative case and first letter in upper case
+    single_month_names:
+    -
+    - Styczeń
+    - Luty
+    - Marzec
+    - Kwiecień
+    - Maj
+    - Czerwiec
+    - Lipiec
+    - Sierpień
+    - Wrzesień
+    - Październik
+    - Listopad
+    - Grudzień
+
+# Russian
+ru:
+  date:
+    # Nominative case and no dot at the end
+    single_abbr_month_names:
+    -
+    - янв
+    - фев
+    - март
+    - апр
+    - май
+    - июнь
+    - июль
+    - авг
+    - сент
+    - окт
+    - нояб
+    - дек
+    # Nominative case and first letter in upper case
+    single_month_names:
+    -
+    - Январь
+    - Февраль
+    - Март
+    - Апрель
+    - Май
+    - Июнь
+    - Июль
+    - Август
+    - Сентябрь
+    - Октябрь
+    - Ноябрь
+    - Декабрь
+
+# TODO: Native speaker's review required (Ukrainian)
+uk:
+  date:
+    # Lower case
+    month_names:
+    -
+    - січня
+    - лютого
+    - березня
+    - квітня
+    - травня
+    - червня
+    - липня
+    - серпня
+    - вересня
+    - жовтня
+    - листопада
+    - грудня
+    # No dot at the end
+    single_abbr_month_names:
+    -
+    - січ
+    - лют
+    - бер
+    - квіт
+    - трав
+    - черв
+    - лип
+    - серп
+    - вер
+    - жовт
+    - лист
+    - груд
+    # Nominative case + lower case
+    single_month_names:
+    -
+    - Січень
+    - Лютий
+    - Березень
+    - Квітень
+    - Травень
+    - Червень
+    - Липень
+    - Серпень
+    - Вересень
+    - Жовтень
+    - Листопад
+    - Грудень
